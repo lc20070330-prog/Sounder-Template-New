@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.ykn"
+        applicationId "com.stand.sounder.man"
         minSdk 23
         targetSdk 36
         versionCode 1
